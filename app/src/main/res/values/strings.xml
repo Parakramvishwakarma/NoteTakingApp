@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="note_taker">Note Taker</string>
+    <string name="_1">1</string>
+    <string name="_3">3</string>
+    <string name="note_1">Note 1</string>
+    <string name="note_2">Note 2</string>
+    <string name="note_3">Note 3</string>
+    <string name="note_4">Note 4</string>
+</resources>
